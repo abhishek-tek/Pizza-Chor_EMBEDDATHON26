@@ -1,0 +1,205 @@
+Message 1: 499.56  -> Average: 499.56
+Message 2: 214.04  -> Average: 356.80
+Message 3: 775.47  -> Average: 496.36
+Message 4: 221.17  -> Average: 427.56
+Message 5: 510.06  -> Average: 444.06
+Message 6: 718.64  -> Average: 489.82
+Message 7: 379.28  -> Average: 474.03
+I (11256) PRIORITY_GUARDIAN: DISTRESS RX=10717 ms | ACK SENT=10717 ms
+Message 8: 880.35  -> Average: 524.82
+Message 9: 896.85  -> Average: 566.16
+Message 10: 433.81  -> Average: 552.92
+Message 11: 896.65  -> Average: 592.63
+Message 12: 276.16  -> Average: 598.84
+Message 13: 918.96  -> Average: 613.19
+Message 14: 967.03  -> Average: 687.78
+Message 15: 313.75  -> Average: 668.15
+Message 16: 158.75  -> Average: 612.16
+Message 17: 648.81  -> Average: 639.11
+Message 18: 909.76  -> Average: 642.05
+Message 19: 198.56  -> Average: 572.22
+Message 20: 114.43  -> Average: 540.29
+I (23845) PRIORITY_GUARDIAN: DISTRESS RX=23307 ms | ACK SENT=23307 ms
+Message 21: 173.04  -> Average: 467.92
+Message 22: 855.97  -> Average: 525.91
+Message 23: 877.04  -> Average: 521.71
+Message 24: 353.41  -> Average: 460.35
+Message 25: 569.29  -> Average: 485.91
+Message 26: 281.59  -> Average: 498.19
+Message 27: 260.24  -> Average: 459.33
+Message 28: 343.68  -> Average: 402.73
+Message 29: 711.68  -> Average: 454.04
+Message 30: 341.25  -> Average: 476.72
+Message 31: 227.28  -> Average: 482.14
+Message 32: 667.76  -> Average: 463.32
+Message 33: 556.77  -> Average: 431.30
+Message 34: 788.07  -> Average: 474.76
+Message 35: 975.63  -> Average: 515.40
+Message 36: 741.83  -> Average: 561.42
+Message 37: 948.29  -> Average: 630.22
+Message 38: 475.39  -> Average: 643.40
+Message 39: 285.07  -> Average: 600.73
+Message 40: 489.95  -> Average: 615.60
+Message 41: 437.76  -> Average: 636.65
+Message 42: 210.14  -> Average: 590.89
+Message 43: 875.34  -> Average: 622.75
+Message 44: 860.71  -> Average: 630.01
+Message 45: 492.21  -> Average: 581.67
+Message 46: 632.48  -> Average: 570.73
+Message 47: 953.57  -> Average: 571.26
+Message 48: 531.68  -> Average: 576.89
+Message 49: 604.45  -> Average: 608.83
+Message 50: 324.05  -> Average: 592.24
+Message 51: 243.19  -> Average: 572.78
+Message 52: 754.76  -> Average: 627.24
+Message 53: 221.07  -> Average: 561.82
+Message 54: 641.42  -> Average: 539.89
+Message 55: 998.92  -> Average: 590.56
+Message 56: 153.19  -> Average: 542.63
+Message 57: 567.92  -> Average: 504.07
+Message 58: 448.01  -> Average: 495.70
+Message 59: 986.96  -> Average: 533.95
+Message 60: 466.93  -> Average: 548.24
+Message 61: 599.23  -> Average: 583.84
+Message 62: 198.14  -> Average: 528.18
+Message 63: 989.17  -> Average: 604.99
+Message 64: 269.78  -> Average: 567.83
+Message 65: 958.79  -> Average: 563.81
+Message 66: 418.79  -> Average: 590.37
+Message 67: 485.31  -> Average: 582.11
+Message 68: 970.61  -> Average: 634.37
+Message 69: 441.18  -> Average: 579.79
+I (73174) PRIORITY_GUARDIAN: DISTRESS RX=72637 ms | ACK SENT=72637 ms
+Message 70: 608.23  -> Average: 593.92
+Message 71: 877.14  -> Average: 621.71
+Message 72: 743.83  -> Average: 676.28
+Message 73: 613.53  -> Average: 638.72
+Message 74: 790.19  -> Average: 690.76
+Message 75: 479.37  -> Average: 642.82
+Message 76: 805.18  -> Average: 681.46
+Message 77: 526.87  -> Average: 685.61
+I (80544) PRIORITY_GUARDIAN: DISTRESS RX=80007 ms | ACK SENT=80007 ms
+Message 78: 401.62  -> Average: 628.71
+Message 79: 646.63  -> Average: 649.26
+Message 80: 490.28  -> Average: 637.46
+Message 81: 284.99  -> Average: 578.25
+Message 82: 883.54  -> Average: 592.22
+Message 83: 255.21  -> Average: 556.39
+Message 84: 903.71  -> Average: 567.74
+I (87895) PRIORITY_GUARDIAN: DISTRESS RX=87357 ms | ACK SENT=87357 ms
+Message 85: 455.77  -> Average: 565.38
+Message 86: 434.71  -> Average: 528.33
+Message 87: 883.92  -> Average: 564.04
+Message 88: 915.38  -> Average: 615.41
+Message 89: 177.22  -> Average: 568.47
+Message 90: 156.55  -> Average: 535.10
+Message 91: 724.29  -> Average: 579.03
+Message 92: 128.25  -> Average: 503.50
+Message 93: 791.49  -> Average: 557.13
+Message 94: 653.18  -> Average: 532.08
+Message 95: 807.99  -> Average: 567.30
+Message 96: 779.79  -> Average: 601.81
+Message 97: 278.21  -> Average: 541.23
+Message 98: 903.64  -> Average: 540.06
+Message 99: 730.38  -> Average: 595.38
+Message 100: 532.46  -> Average: 632.97
+Message 101: 555.65  -> Average: 616.10
+Message 102: 127.06  -> Average: 615.98
+Message 103: 767.92  -> Average: 613.63
+Message 104: 186.29  -> Average: 566.94
+I (108331) PRIORITY_GUARDIAN: DISTRESS RX=107794 ms | ACK SENT=107794 ms
+Message 105: 540.57  -> Average: 540.20
+Message 106: 600.78  -> Average: 522.30
+Message 107: 699.57  -> Average: 564.43
+Message 108: 929.71  -> Average: 567.04
+Message 109: 579.83  -> Average: 551.98
+Message 110: 758.98  -> Average: 574.64
+Message 111: 953.68  -> Average: 614.44
+Message 112: 675.82  -> Average: 669.32
+Message 113: 111.78  -> Average: 603.70
+Message 114: 105.62  -> Average: 595.63
+Message 115: 305.64  -> Average: 572.14
+Message 116: 588.29  -> Average: 570.89
+Message 117: 345.99  -> Average: 535.53
+Message 118: 221.55  -> Average: 464.72
+I (121715) PRIORITY_GUARDIAN: DISTRESS RX=121178 ms | ACK SENT=121178 ms
+Message 119: 539.41  -> Average: 460.68
+Message 120: 904.31  -> Average: 475.21
+Message 121: 163.27  -> Average: 396.17
+Message 122: 722.68  -> Average: 400.85
+Message 123: 287.95  -> Average: 418.47
+Message 124: 666.44  -> Average: 474.55
+I (128064) PRIORITY_GUARDIAN: DISTRESS RX=127526 ms | ACK SENT=127526 ms
+Message 125: 833.25  -> Average: 527.31
+Message 126: 495.77  -> Average: 518.06
+Message 127: 340.67  -> Average: 517.53
+Message 128: 541.17  -> Average: 549.49
+Message 129: 880.87  -> Average: 583.64
+Message 130: 822.57  -> Average: 575.46
+Message 131: 324.08  -> Average: 591.54
+Message 132: 802.59  -> Average: 599.54
+Message 133: 310.87  -> Average: 601.83
+Message 134: 185.39  -> Average: 553.72
+Message 135: 979.11  -> Average: 568.31
+Message 136: 931.23  -> Average: 611.85
+I (139534) PRIORITY_GUARDIAN: DISTRESS RX=138996 ms | ACK SENT=138996 ms
+Message 137: 728.92  -> Average: 650.68
+Message 138: 796.95  -> Average: 676.26
+Message 139: 885.15  -> Average: 676.69
+Message 140: 732.07  -> Average: 667.64
+Message 141: 830.69  -> Average: 718.30
+Message 142: 780.07  -> Average: 716.04
+Message 143: 889.89  -> Average: 773.95
+Message 144: 168.49  -> Average: 772.26
+Message 145: 265.45  -> Average: 700.89
+Message 146: 609.13  -> Average: 668.68
+Message 147: 186.22  -> Average: 614.41
+Message 148: 458.49  -> Average: 580.56
+Message 149: 117.14  -> Average: 503.76
+Message 150: 463.99  -> Average: 476.96
+Message 151: 603.44  -> Average: 454.23
+Message 152: 648.99  -> Average: 441.12
+Message 153: 380.28  -> Average: 390.16
+Message 154: 225.48  -> Average: 395.86
+Message 155: 653.51  -> Average: 434.67
+Message 156: 202.45  -> Average: 394.00
+Message 157: 531.95  -> Average: 428.57
+I (160940) PRIORITY_GUARDIAN: DISTRESS RX=160402 ms | ACK SENT=160402 ms
+W (161444) PRIORITY_GUARDIAN: NEXT CHALLENGE / OTHER MSG: "💥 Barrier Breached! Next challenge: mnjki_window ⚔️"
+Message 158: 853.76  -> Average: 468.10
+Message 159: 444.71  -> Average: 500.86
+W (163407) PRIORITY_GUARDIAN: NEXT CHALLENGE / OTHER MSG: "💥 Barrier Breached! Next challenge: mnjki_window ⚔️"
+Message 160: 509.93  -> Average: 505.45
+Message 161: 250.13  -> Average: 470.12
+W (165426) PRIORITY_GUARDIAN: NEXT CHALLENGE / OTHER MSG: "💥 Barrier Breached! Next challenge: mnjki_window ⚔️"
+Message 162: 156.03  -> Average: 420.82
+Message 163: 235.31  -> Average: 406.33
+W (167412) PRIORITY_GUARDIAN: NEXT CHALLENGE / OTHER MSG: "💥 Barrier Breached! Next challenge: mnjki_window ⚔️"
+Message 164: 749.47  -> Average: 458.73
+Message 165: 428.46  -> Average: 436.22
+W (169422) PRIORITY_GUARDIAN: NEXT CHALLENGE / OTHER MSG: "💥 Barrier Breached! Next challenge: mnjki_window ⚔️"
+Message 166: 481.59  -> Average: 464.13
+Message 167: 704.04  -> Average: 481.34
+W (171412) PRIORITY_GUARDIAN: NEXT CHALLENGE / OTHER MSG: "💥 Barrier Breached! Next challenge: mnjki_window ⚔️"
+Message 168: 839.22  -> Average: 479.89
+Message 169: 835.85  -> Average: 519.00
+W (173414) PRIORITY_GUARDIAN: NEXT CHALLENGE / OTHER MSG: "💥 Barrier Breached! Next challenge: mnjki_window ⚔️"
+Message 170: 507.66  -> Average: 518.78
+Message 171: 367.64  -> Average: 530.53
+W (175419) PRIORITY_GUARDIAN: NEXT CHALLENGE / OTHER MSG: "💥 Barrier Breached! Next challenge: mnjki_window ⚔️"
+Message 172: 561.63  -> Average: 571.09
+Message 173: 574.34  -> Average: 604.99
+W (177420) PRIORITY_GUARDIAN: NEXT CHALLENGE / OTHER MSG: "💥 Barrier Breached! Next challenge: mnjki_window ⚔️"
+Message 174: 173.58  -> Average: 547.40
+Message 175: 424.39  -> Average: 546.99
+W (179422) PRIORITY_GUARDIAN: NEXT CHALLENGE / OTHER MSG: "💥 Barrier Breached! Next challenge: mnjki_window ⚔️"
+Message 176: 981.70  -> Average: 597.01
+Message 177: 329.97  -> Average: 559.60
+W (181424) PRIORITY_GUARDIAN: NEXT CHALLENGE / OTHER MSG: "💥 Barrier Breached! Next challenge: mnjki_window ⚔️"
+Message 178: 419.04  -> Average: 517.58
+Message 179: 811.06  -> Average: 515.10
+W (183437) PRIORITY_GUARDIAN: NEXT CHALLENGE / OTHER MSG: "💥 Barrier Breached! Next challenge: mnjki_window ⚔️"
+Message 180: 105.73  -> Average: 474.91
+Message 181: 484.18  -> Average: 486.56
+W (185427) PRIORITY_GUARDIAN: NEXT CHALLENGE / OTHER MSG: "💥 Barrier Breached! Next challenge: mnjki_window ⚔️"
+Message 182: 322.51  -> Average: 462.65
